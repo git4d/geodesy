@@ -1,0 +1,14 @@
+{
+  "name": "geodesy-i4d",
+  "homepage": "https://github.com/git4d/geodesy-i4d",
+  "version": "1.1.1",
+  "description": "Custom I4D version of Geodesy",
+  "main": [
+    "./vector3d.js",
+    "./latlon-ellipsoidal.js",
+    "./utm.js",
+    "./mgrs.js",
+    "./dms.js"
+  ],
+  "ignore": []
+} 
